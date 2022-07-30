@@ -1,0 +1,19 @@
+{
+  "name": "priyo-iu",
+  "version": "1.0.0",
+  "description": "The ultimate chatbot for IU",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royastik27/priyo-iu.git"
+  },
+  "author": "royastik27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royastik27/priyo-iu/issues"
+  },
+  "homepage": "https://github.com/royastik27/priyo-iu#readme"
+}
